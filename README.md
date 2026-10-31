@@ -121,19 +121,6 @@ BMS Institute of Technology and Management, Bengaluru
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chandanas332006-droid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanas332006-droid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=chandanas332006-droid&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-
----
 
 <div align="center">
 
