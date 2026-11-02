@@ -3,7 +3,7 @@
 
 # Hi, I'm Chandana S. 👋
 
-### Data Engineer | Platform Engineer | CSE (AI & ML) Student
+### Data Engineer | Platform Engineer | CSE  Student
 
 Building scalable data pipelines, cloud solutions, and AI-powered applications.
 
