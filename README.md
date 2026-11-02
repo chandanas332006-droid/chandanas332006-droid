@@ -17,7 +17,7 @@ Building scalable data pipelines, cloud solutions, and AI-powered applications.
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.E. in Computer Science (AI & ML) at BMSIT&M, Bengaluru.
+- 🎓 Pursuing B.E. in Computer Science at BMSIT&M, Bengaluru.
 - 💻 Interested in Data Engineering, Platform Engineering, and AI/ML.
 - ⚙️ Experienced in building end-to-end ETL/ELT data pipelines.
 - ☁️ Working with AWS, Snowflake, Docker, and CI/CD workflows.
